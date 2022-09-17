@@ -1,1 +1,1 @@
-# Social-Distancing-Face-Mask-Detection
+# Social-Distancing-and-Face-Mask-Detection
